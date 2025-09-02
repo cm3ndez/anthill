@@ -1,0 +1,20 @@
+<map id="src/object_test.c" name="src/object_test.c">
+<area shape="rect" id="Node000001" title="It tests the object module." alt="" coords="180,5,308,31"/>
+<area shape="rect" id="Node000002" href="$object_8h.html" title="It defines the object module." alt="" coords="169,79,244,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,32,221,68,217,65,235,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="222,33,140,81,99,113,63,144,60,140,95,109,137,76,219,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,167,177"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="220,33,188,52,159,80,145,109,138,139,132,138,140,107,155,77,185,48,217,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,152,357,177"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="253,30,311,139,306,141,248,32"/>
+<area shape="rect" id="Node000007" href="$object__test_8h.html" title="It declares the tests for the object module." alt="" coords="319,79,425,104"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="266,28,340,69,338,74,263,33"/>
+<area shape="rect" id="Node000008" href="$test_8h.html" title="It defines the test assertions." alt="" coords="449,79,508,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="282,28,437,75,436,80,281,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,106,80,149,78,144,179,102"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,106,156,144,152,141,193,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,102,292,142,290,147,224,106"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="It defines common types for the whole project." alt="" coords="191,152,262,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="213,104,222,138,217,140,207,105"/>
+</map>

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "game_management.h": "c",
+        "stdlib.h": "c",
+        "game.h": "c",
+        "game_actions.h": "c",
+        "graphic_engine.h": "c",
+        "stdio.h": "c"
+    }
+}

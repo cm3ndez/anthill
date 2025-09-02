@@ -1,0 +1,14 @@
+<map id="include/space.h" name="include/space.h">
+<area shape="rect" id="Node000001" title="It defines the space module." alt="" coords="197,5,320,31"/>
+<area shape="rect" id="Node000002" href="$set_8h.html" title="It defines the set module." alt="" coords="199,79,254,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,32,240,67,235,65,251,30"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="It defines common types for the whole project." alt="" coords="286,152,357,177"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="266,30,313,138,308,140,261,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,105,83,150,81,145,198,100"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,167,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="213,106,160,146,157,141,210,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="191,152,262,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,104,229,138,224,138,224,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="243,102,296,141,293,146,240,106"/>
+</map>

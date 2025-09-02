@@ -1,0 +1,20 @@
+<map id="_Game" name="_Game">
+<area shape="rect" id="Node000001" title="_Game private struct" alt="" coords="267,295,335,320"/>
+<area shape="rect" id="Node000002" href="$struct__Player.html" title="_Player private struct" alt="" coords="15,207,86,232"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,245,61,258,70,269,84,277,104,284,157,294,267,302,267,308,157,299,103,289,82,282,66,273,57,261,51,247"/>
+<area shape="rect" id="Node000003" href="$struct__Inventory.html" title="Inventory." alt="" coords="5,108,96,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="40,147,36,158,36,182,46,205,41,207,31,183,31,157,35,145"/>
+<area shape="rect" id="Node000004" href="$struct__Set.html" title="_Set private struct" alt="" coords="73,5,124,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,44,81,56,58,109,53,107,76,54,83,41"/>
+<area shape="rect" id="Node000007" href="$struct__Space.html" title="_Space private struct" alt="" coords="113,157,181,183"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="110,43,113,54,146,157,141,158,108,55,105,45"/>
+<area shape="rect" id="Node000005" href="$struct__Object.html" title="_Object private struct" alt="" coords="214,207,285,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,243,276,269,293,292,289,296,271,272,257,246"/>
+<area shape="rect" id="Node000006" href="$struct__Character.html" title="_Character private struct" alt="" coords="309,207,401,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="344,246,328,272,312,296,307,293,323,269,339,243"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="147,196,149,214,156,231,179,255,208,274,239,287,268,296,266,301,237,292,206,279,176,259,151,233,143,215,142,197"/>
+<area shape="rect" id="Node000008" href="$struct__Command.html" title="_Command private struct" alt="" coords="425,207,521,232"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="454,244,413,273,374,290,336,301,335,296,372,285,411,268,450,239"/>
+<area shape="rect" id="Node000009" href="$struct__Link.html" title="_Link private struct" alt="" coords="545,207,601,232"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="552,243,530,259,504,273,460,288,414,298,336,307,335,302,413,293,458,283,502,268,527,255,549,239"/>
+</map>

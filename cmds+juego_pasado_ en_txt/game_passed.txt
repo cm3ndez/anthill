@@ -1,0 +1,66 @@
+PASOS A SEGUIR PARA UN JUGADOR PARA PASARSE EL JUEGO:
+    move south
+    move left
+    move south
+    move south
+    move south
+    move right
+    move right
+    move right
+    attack (al fallo)
+    move right
+    move south
+    chat
+    recruit
+    move up
+    move right
+    move north
+    move north
+    move north
+    attack(al fallo)
+    move right
+    move right
+    attack(al fallo)
+    move righ
+    attack(al fallo)
+    take
+    use
+    move right
+    take
+    move up
+    move right
+    move north
+    move north
+    move north
+    attack ??????
+    move right
+    use
+    move south
+    move south
+    move right
+    move down
+    take
+    move right
+    move up
+    move north
+    chat
+    recruit
+    move down
+    chat
+    recruit
+    move up
+    move left
+    move north
+    move north
+    move north
+    move right
+    move north
+    move right
+    move up
+    attack(al fallo)
+    move up
+    attack(al fallo)
+    move up
+    attack(al fallo)
+    move up
+    exit

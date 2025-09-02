@@ -1,0 +1,16 @@
+<map id="src/object.c" name="src/object.c">
+<area shape="rect" id="Node000001" title="It implements the object module." alt="" coords="121,5,217,31"/>
+<area shape="rect" id="Node000002" href="$object_8h.html" title="It defines the object module." alt="" coords="169,79,244,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,30,197,65,192,68,173,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="161,33,60,143,56,140,157,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,167,177"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="169,32,141,139,136,138,164,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,152,357,177"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="191,28,224,49,258,77,286,108,309,139,304,142,282,111,254,81,220,54,188,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,106,80,149,78,144,179,102"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,106,156,144,152,141,193,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,102,292,142,290,147,224,106"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="It defines common types for the whole project." alt="" coords="191,152,262,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="213,104,222,138,217,140,207,105"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/inventory.c" name="src/inventory.c">
+<area shape="rect" id="Node000001" title="It implements the inventory module." alt="" coords="79,5,195,31"/>
+<area shape="rect" id="Node000002" href="$inventory_8h_source.html" title=" " alt="" coords="189,79,283,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,29,210,68,207,73,152,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="130,32,93,80,54,141,50,138,88,77,126,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,167,177"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="129,33,113,54,101,79,100,95,102,111,117,139,112,142,97,112,94,95,96,78,109,51,125,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,152,357,177"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="196,25,250,43,275,58,298,77,315,107,322,138,317,139,310,109,294,80,272,62,247,48,195,30"/>
+<area shape="rect" id="Node000007" href="$set_8h.html" title="It defines the set module." alt="" coords="110,79,165,104"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="140,31,140,65,135,65,135,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,107,85,150,83,145,203,102"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,106,162,146,159,142,218,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="251,102,299,141,295,145,248,106"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="It defines common types for the whole project." alt="" coords="191,152,262,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="237,105,233,139,227,138,232,104"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="123,106,67,146,64,142,120,102"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="139,105,137,139,131,138,134,104"/>
+<area shape="poly" id="edge12_Node000007_Node000005" title=" " alt="" coords="166,101,280,145,278,150,164,106"/>
+<area shape="poly" id="edge13_Node000007_Node000006" title=" " alt="" coords="153,102,203,141,200,145,150,106"/>
+</map>

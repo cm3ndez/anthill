@@ -1,0 +1,7 @@
+<map id="include/game_management.h" name="include/game_management.h">
+<area shape="rect" id="Node000001" title="It defines the fucntions neede to create the spaces and asign them their vaules according to the file..." alt="" coords="25,5,241,31"/>
+<area shape="rect" id="Node000002" href="$game_8c.html" title="It implements the game structure." alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,42,67,80,64,76,108,38"/>
+<area shape="rect" id="Node000003" href="$game__management_8c.html" title="It implements the load of the spaces, players, objects, characters and links and asigns them their va..." alt="" coords="123,79,309,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,38,204,76,201,80,155,42"/>
+</map>

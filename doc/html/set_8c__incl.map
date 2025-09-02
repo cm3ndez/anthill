@@ -1,0 +1,14 @@
+<map id="src/set.c" name="src/set.c">
+<area shape="rect" id="Node000001" title="It implements the set module." alt="" coords="47,5,123,31"/>
+<area shape="rect" id="Node000002" href="$set_8h.html" title="It defines the set module." alt="" coords="105,79,159,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,30,119,66,115,69,91,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="84,32,49,140,44,138,79,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,106,66,146,63,141,115,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,167,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="135,104,135,138,129,138,129,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="191,152,262,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="149,102,202,141,199,146,146,106"/>
+<area shape="rect" id="Node000006" href="$types_8h.html" title="It defines common types for the whole project." alt="" coords="286,152,357,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="160,100,279,145,277,150,159,105"/>
+</map>

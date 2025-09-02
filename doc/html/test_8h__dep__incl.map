@@ -1,0 +1,20 @@
+<map id="include/test.h" name="include/test.h">
+<area shape="rect" id="Node000001" title="It defines the test assertions." alt="" coords="497,5,607,31"/>
+<area shape="rect" id="Node000002" href="$link__test_8h.html" title="It contains the declaration of link_test.c." alt="" coords="5,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,32,147,82,147,77,483,27"/>
+<area shape="rect" id="Node000003" href="$link__test_8c.html" title="It tests the functions of TAD Link." alt="" coords="73,152,185,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="483,21,422,25,352,35,279,53,211,81,187,97,167,117,139,153,134,150,163,113,184,93,208,76,278,47,351,29,422,20,483,16"/>
+<area shape="rect" id="Node000004" href="$character__test_8c.html" title="It tests character module." alt="" coords="221,79,371,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="499,37,338,81,337,76,497,32"/>
+<area shape="rect" id="Node000005" href="$inventory__test_8c.html" title="It tests the inventory module." alt="" coords="395,79,546,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="530,42,486,80,482,76,527,38"/>
+<area shape="rect" id="Node000006" href="$object__test_8c.html" title="It tests the object module." alt="" coords="571,79,699,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="577,38,623,76,619,80,574,42"/>
+<area shape="rect" id="Node000007" href="$player__test_8c.html" title="It tests player module." alt="" coords="723,79,853,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="604,32,751,76,749,81,602,37"/>
+<area shape="rect" id="Node000008" href="$set__test_8c.html" title="It tests space module." alt="" coords="877,79,985,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="621,30,877,77,876,82,620,35"/>
+<area shape="rect" id="Node000009" href="$space__test_8c.html" title="It tests space module." alt="" coords="1009,79,1135,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="621,25,998,76,1009,78,1008,83,997,81,621,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,113,123,150,119,153,91,117"/>
+</map>

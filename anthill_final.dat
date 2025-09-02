@@ -1,0 +1,169 @@
+#s:01|Spawn|1|  __  _  | /  \/ \_|/     //\|\     \//| \/  \_/'|
+#s:02|Hallway1|0|   ____  |  /    \_| /   _   |/   / \  |\   \  \_|
+#s:03|Hallway2|0|   /  \  |   \   \ |\__/    \|   _    /| _/ \__/ |
+#s:04|Labyrinth1|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:05|Labyrinth2|0|:::::::::|__:::::__|!!\___/!!|  !!!!!  |   !!!   |
+#s:06|Labyrinth3|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:07|Labyrinth4|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:08|Lobby1|0|/    \__/|\        | \       | /      _|/      / |
+#s:09|Lobby2|0|\___   _ |    \_/ \|        /|_       \| \_     /|
+#s:10|Labyrinth5|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:11|Labyrinth6|0|   _!_   |  /   \__|  \     .|  !\_ .::|  !!!\ ::|
+#s:12|Labyrinth7|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:13|Labyrinth8|0|:::''':::|:'     ':|:   X   :|:.     .:|:::...:::|
+#s:14|Lobby3|0|\ ____ \ |//___   \|//_  \   |// \ /__ |\\O///  \|
+#s:15|Lobby4|0| __/   / |/      \ |       _\|  __  /_/|_/  \//:/|
+#s:16|Labyrinth9|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:17|Labyrint10|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:18|Labyrinth11|0|:::::::::|:::::::::|:::/ ____|:::\/ __/|::::\/_/:|
+#s:19|Labyrinth12|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:20|Hallway3|0| //    __| \\___/  | /       |/ .  __  |\___/  \_|
+#s:21|Entrance|0|______   |   \__ \\|   :  ::.|   :__::'| __/___//|
+#s:22|Labyrinth13|0| .: ':.::|/  :. :::|    '.'::|\ '. :'::| ': ::.':|
+#s:23|Labyrinth14|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:24|Labyrinth15|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:25|Labyrinth16|0|:::::::::|:::::::::|:::::::::|:::::::::|:::::::::|
+#s:26|Character1|0|:.::.:.':|::. '::. |\.:  . :\|/ :    _/|\__/\_/  |
+#s:27|Exit1|0|.:/___  /|_/____\ \|    \  \/|_    \_/\| \___/__/|
+#s:28|Exit2|0|:::/__/::|:::__\:::|::::::__\|/_______/|::\     \|
+#s:29|Exit3|0|::/\____/|\  /::::\|:\______/|::::\_/::|:::\___/:|
+#s:30|Exit4|0|:/     /:|/ :_m_:\:|\  _M_  \|/ / 0 \ /|\_ / \  \|
+#s:31|Behind_spider|0|  /#'''\ |_/ . #  \|        #|'\    # /|  \____/ |
+#s:40|Item1|0| /''''\_ |/     o \|\_  .o  /| / o . / | \____/  |
+#s:41|Item2|0| /''''\_ |/     o \|\_  .o  /| / o . / | \____/  |
+#s:42|Character2|0|/\__/'\_ |\      _\|/      \ |\   X  / | \____/  |
+#s:50|Tunnel1|0|:\/:::o::|\::/\::::|/    \/  |\____  /\|     \/  |
+#s:51|Tunnel2|0|::o::\_/:|::::\___/|   \/:::\|___     /|   \___/ |
+#s:52|Queen_Ant|0|/:/__/'\ |__/   :O\|\ o.    /| \  .:O \|  \_____/|
+
+#l:01|Passage|01|03|1|1|
+#l:02|Passage|03|01|0|1|
+#l:03|Passage|03|02|3|1|
+#l:04|Passage|02|03|2|1|
+#l:05|Passage|02|08|1|1|
+#l:06|Passage|08|02|0|1|
+#l:07|Passage|08|09|2|1|
+#l:08|Passage|08|14|1|1|
+#l:09|Passage|09|08|3|1|
+#l:10|Passage|09|15|1|1|
+#l:11|Passage|14|08|0|1|
+#l:12|Passage|14|15|2|1|
+#l:13|Passage|14|20|1|1|
+#l:14|Passage|15|09|0|1|
+#l:15|Passage|15|14|3|1|
+#l:16|Passage|20|14|0|1|
+#l:17|Passage|20|21|2|1|
+#l:18|Digging|20|40|5|1|
+#l:19|Passage|21|20|3|1|
+#l:20|Passage|21|22|2|1|
+#l:21|Passage|22|16|0|1|
+#l:22|Passage|22|23|2|1|
+#l:23|Retreat|22|21|3|1| 
+#l:24|Passage|16|22|1|1|
+#l:25|Passage|16|10|0|1|
+#l:26|Retreat|16|21|4|1|
+#l:27|Passage|10|16|1|1|
+#l:28|Passage|10|04|0|1|
+#l:29|Retreat|10|21|4|1|
+#l:30|Passage|04|10|1|1|
+#l:31|Passage|04|05|2|1|
+#l:32|Retreat|04|21|4|1|
+#l:33|Passage|05|04|3|1|
+#l:34|Passage|05|06|2|1|
+#l:35|String|05|11|1|0| 
+#l:36|Retreat|05|21|4|1|
+#l:37|Passage|06|05|3|1|
+#l:38|Passage|06|07|2|1|
+#l:39|Passage|06|12|1|1|
+#l:40|Retreat|06|21|4|1|
+#l:41|Passage|07|06|3|1|
+#l:42|Retreat|07|21|4|1|
+#l:43|Passage|12|06|0|1|
+#l:44|Digging|12|41|5|1|
+#l:45|Retreat|12|21|4|1|
+#l:46|Passage|11|05|0|1|
+#l:47|Passage|11|17|1|1|
+#l:48|Retreat|11|21|4|1|
+#l:49|Passage|17|11|0|1|
+#l:50|Passage|17|18|2|1|
+#l:51|Retreat|17|21|4|1|
+#l:52|Passage|18|17|3|1|
+#l:53|Tunnel|18|50|5|1|
+#l:54|Retreat|18|21|4|1|
+#l:55|Passage|19|51|5|1|
+#l:56|Passage|19|13|0|1|
+#l:57|Passage|19|25|1|1|
+#l:58|Retreat|19|21|4|1|
+#l:59|Passage|13|19|1|1|
+#l:60|Digging|13|42|5|1|
+#l:61|Retreat|13|21|4|1|
+#l:62|Passage|25|19|0|1|
+#l:63|Retreat|25|21|4|1|
+#l:64|Passage|23|22|3|1|
+#l:65|Passage|23|24|2|1|
+#l:66|Retreat|23|21|4|1|
+#l:67|Passage|24|23|3|1|
+#l:68|Passage|24|26|1|1|
+#l:69|Retreat|24|21|4|1|
+#l:70|Passage|26|24|0|1|
+#l:71|Retreat|26|21|4|1|
+#l:72|Exiting|01|27|2|0|
+#l:73|Upwards|27|28|4|1|
+#l:74|Upwards|28|29|4|1|
+#l:75|Upwards|29|30|4|1|
+#l:76|Spiders|07|31|2|0|
+#l:77|Spiders|31|07|2|1|
+#l:78|Retreat|31|21|4|1|
+#l:79|Tunnel|50|18|4|1|
+#l:80|Tunnel|50|51|2|1|
+#l:81|Tunnel|51|19|4|1|
+#l:82|Tunnel|51|50|3|1|
+#l:83|Queen_Ant|15|52|5|1|
+#l:84|Return|52|15|4|1|
+#l:85|Passage|22|21|3|1|
+#l:86|Up|40|20|4|1|
+
+#o:001|String|30|A durable string that could be used to traverse a hole.|0|1|-1|-1|
+#o:002|Key|1|A small key. I wonder what it opens...|1|1|-1|-1|
+#o:003|Food|40|Tasty! It recovers 5 health points.|5|1|1|-1|-1|
+#o:004|SpiderFangs|30|Two sharp fangs that can slice through cobwebs.|4|1|-1|76|
+#o:005|Cobwebs|31|Better not to get tangled in those.|0|0|-1|-1|
+#o:006|Larva|23|We should carry these larva somewhere safer.|0|1|007|-1|
+#o:007|Leaf|20|Perfect for carrying small things around!|0|1|-1|-1|
+#o:008|Grains|52|The queen's selected grains. Better not to touch them without permission...|10|0|-1|-1|
+#o:009|Nectar|52|This looks delicious, but we might get in trouble if we take it.|10|0|-1|-1|
+#o:010|Seeds|52|Sunflower seeds, property of the queen.|10|0|-1|-1|
+#o:011|Food1|40|Tasty! It recovers 5 health points.|5|1|1|-1|-1|
+#o:012|Food2|40|Tasty! It recovers 5 health points.|5|1|1|-1|-1|
+#o:013|Food3|41|Tasty! It recovers 5 health points.|5|1|1|-1|-1|
+#o:014|Food4|41|Tasty! But it lacks sugar... It recovers 4 health points.|4|1|1|-1|-1|
+#o:015|GlowingRock|50|This rock on the wall gives off a faint light, but it's stuck there.|0|0|-1|-1|
+#o:016|GlowingRock|51|This rock on the wall gives off a faint light, but it's stuck there.|0|0|-1|-1|
+#o:017|Food|41|Tasty! It recovers 5 health points.|5|1|1|-1|-1|                                              
+#o:018|Map1|50|"Before the spider take a turn, you shall find me in return." Is this a hint?|0|1|-1|-1|                                         
+#o:019|Note|52|"After the tunnel, we both took a turn to the left, but we got stuck. Please help us!!"|0|1|-1|-1|                                                
+#o:020|Map2|51|""." marks the spot." Whatever could that mean?|0|1|-1|-1|                                              
+
+#c:11|Ant|1|1|5|^0mMm|Thank you for saving me!|-1|
+#c:10|Spider|01|0|5|/@@\\\|Who dares enter my lair?! Do you wish to be turned into my third meal of the day?|-1|
+#c:12|Worm(not_evil)|25|1|5|^/\_/\|Hi! It's hard finding a home when you're a worm. They don't let us dig just anywhere...|-1|
+#c:13|Queen_Ant|52|1|10|O>mm*'|Welcome, my children. Do you have any food to offer me?|-1|
+#c:14|Beetle|24|0|4|<mO-|Stay away from our territory, invaders!|-1|
+#c:15|Enemy_Queen_Ant|30|0|11| |You should have stayed in that wretched prision instead of resisting. Now face the consequences!!|-1|
+#c:16|Enemy_Minion|27|0|5|^0m|Queen's orders, you must die here!|-1|
+#c:17|Enemy_Minion2|28|0|5|^0m|Queen's orders, you must die here!|-1|
+#c:18|Enemy_Minion2_too|28|0|5|^0m|Queen's orders, you must die here! Too!|-1|
+#c:19|Enemy_Minion3|29|0|5|^0m|Queen's orders, you must die here! ...3?|-1|
+#c:20|Enemy_Minion7|29|0|7|^0m|I was the bulky one of the family so they gave me the highest number.|-1|
+#c:21|Lost_Ant|26|1|5|m0^|Thank you for saving me! I was too scared to find my way back home.|-1|
+#c:22|Lost_Ant|13|1|5|m0^|Thank you for saving us, we got buried alive and we didn't have the strength to get out.|-1|
+#c:23|Chill_Ant|13|1|5|m0^|I was always able to get out, I just wanted to spend some time chilling with my buddy here. Thanks anyway, though.|-1|
+#c:24|Beetle|04|0|4|<mO-|You should not be here!|-1|
+#c:25|Worm|19|0|4|^/\_/\|Oh come on, I just established my home here and I already have pests?!|-1|
+#c:26|Beetle1|1|0|8|<mO-|Why did you block our home? You'll pay for that!|-1|
+
+#p:1|ant|m0^|01|5|3|
+#p:2|mouse|_Oo|01|5|3|
+#p:3|bug|_.*|01|5|3|
+
+
